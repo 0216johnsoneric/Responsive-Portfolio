@@ -1,0 +1,29 @@
+body {
+    background-image: url(https://techcrunch.com/wp-content/uploads/2015/08/clouds.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+}
+
+header.page-header h1 {
+    color: lightskyblue;
+    text-shadow: 2px 2px 5px black;
+    font-family: monospace;
+    font-size: 70px;
+}
+
+p.statement {
+    color: rgb(168, 105, 255);
+}
+
+h3.hello:hover {
+    color: black;
+    font-size: 30px;
+    transform: scale(2.0);
+}
+
+p.quote {
+    color:  rgb(168, 105, 255);
+    font-size: 25px;
+    font-family: cursive;
+}
