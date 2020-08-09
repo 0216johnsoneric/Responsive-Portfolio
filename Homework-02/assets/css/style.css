@@ -19,6 +19,13 @@ form.page-form h1 {
     font-size: 70px;
 }
 
+form.page-form h3 {
+    color: lightsteelblue;
+    text-shadow: 2px 2px 5px black;
+    font-family: monospace;
+    font-size: 35px;
+}
+
 p.statement {
     color: rgb(168, 105, 255);
 }
