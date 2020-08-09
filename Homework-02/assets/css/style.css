@@ -27,17 +27,19 @@ form.page-form h3 {
 }
 
 p.statement {
-    color: rgb(168, 105, 255);
+    color: grey;
+    font-size: 20px
 }
 
-h3.hello:hover {
-    color: black;
-    font-size: 30px;
-    transform: scale(2.0);
+h3.hello {
+    color: lightsteelblue;
+    text-shadow: 2px 2px 5px black;
+    font-family: monospace;
+    font-size: 35px;
 }
 
 p.quote {
-    color:  rgb(168, 105, 255);
+    color:  black;
     font-size: 25px;
     font-family: cursive;
 }
