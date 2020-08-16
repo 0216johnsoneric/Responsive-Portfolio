@@ -35,6 +35,18 @@ form.page-form h3 {
     font-size: 35px;
 }
 
+div.card {
+    /* background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/6578fae6-d7e4-43c9-b8c9-ad92c66bca16/dcxlp7h-5a6ad507-1b0f-4db2-bef2-5a5c9e832bef.jpg/v1/fill/w_729,h_1096,q_70,strp/trippy_mountains_by_ibroninja_dcxlp7h-pre.jpg); */
+    background-color: lightskyblue;
+
+}
+
+div.card-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
 p.statement {
     color: grey;
     font-size: 20px
