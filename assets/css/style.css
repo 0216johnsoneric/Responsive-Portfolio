@@ -42,13 +42,14 @@ div.media h3{
     font-size: 35px;
 }
 
-/* div.card-body {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-} */
+h3.hello {
+    color: lightsteelblue;
+    text-shadow: 2px 2px 5px black;
+    font-family: monospace;
+    font-size: 35px;
+}
 
+/* PARAGRAPH CLASSES */
 p.font {
     color: gray;
 }
@@ -58,15 +59,9 @@ p.statement {
     font-size: 20px
 }
 
-h3.hello {
-    color: lightsteelblue;
-    text-shadow: 2px 2px 5px black;
-    font-family: monospace;
-    font-size: 35px;
-}
-
 p.quote {
     color:  black;
     font-size: 25px;
     font-family: cursive;
 }
+
